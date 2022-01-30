@@ -1,4 +1,4 @@
-### Olá! Me chamo Victor 👋
+### Victor Caldas
 
 - 🔭 Economia e Finanças com Dados
 - 🌱 Data Science
